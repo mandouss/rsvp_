@@ -1,1 +1,2 @@
-### root url is hostname/rsvp
+### root url is "hostname/rsvp"
+
